@@ -24,7 +24,7 @@ The pipeline orchestrates data ingestion, transformation, and modeling stages to
 
 ---
 
-## Pipeline Configuration
+## Workflow Configuration
 
 This project uses a fully orchestrated Databricks job pipeline defined in ------- The pipeline coordinates the execution of all notebooks across Bronze, Silver, and Gold layers, using a parameterized and modular workflow.
 
