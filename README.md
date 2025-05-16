@@ -48,10 +48,10 @@ The pipeline orchestrates data ingestion, transformation, and modeling stages to
 
 ## Folder Structure in Data Lake
 
-/source - Raw Parquet files
-/bronze - Raw data in Delta format after CDC
-/silver - Transformed, cleansed data and joined tables
-/gold - Star schema tables for analytics (fact and dimension tables)
+-/source - Raw Parquet files
+-/bronze - Raw data in Delta format after CDC
+-/silver - Transformed, cleansed data and joined tables
+-/gold - Star schema tables for analytics (fact and dimension tables)
 
 ---
 
