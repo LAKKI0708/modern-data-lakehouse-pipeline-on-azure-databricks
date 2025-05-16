@@ -22,6 +22,9 @@ The pipeline orchestrates data ingestion, transformation, and modeling stages to
 
 ## Architecture Diagram
 
+![Screenshot 2025-05-16 212411](https://github.com/user-attachments/assets/00dd688d-49c1-4d22-9b99-0930ef431a90)
+
+
 ---
 
 ## Workflow Configuration
