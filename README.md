@@ -24,6 +24,12 @@ The pipeline orchestrates data ingestion, transformation, and modeling stages to
 
 ---
 
+## Pipeline Configuration
+
+This project uses a fully orchestrated Databricks job pipeline defined in ------- The pipeline coordinates the execution of all notebooks across Bronze, Silver, and Gold layers, using a parameterized and modular workflow.
+
+---
+
 ## Key Features
 
 - **Change Data Capture (CDC):** Incremental data processing to handle updates efficiently.
