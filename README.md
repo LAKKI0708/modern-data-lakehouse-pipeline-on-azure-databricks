@@ -26,7 +26,7 @@ The pipeline orchestrates data ingestion, transformation, and modeling stages to
 
 ## Workflow Configuration
 
-This project uses a fully orchestrated Databricks job pipeline defined in [`workflow_job.json`](modern-data-lakehouse-pipeline-on-azure-databricks-/workflow_orchestration/workflow_job.json). The pipeline coordinates the execution of all notebooks across Bronze, Silver, and Gold layers, using a parameterized and modular workflow.
+This project uses a fully orchestrated Databricks job pipeline defined in [`workflow_job.json`](./workflow_orchestration/workflow_job.json). The pipeline coordinates the execution of all notebooks across Bronze, Silver, and Gold layers, using a parameterized and modular workflow.
 
 ---
 
